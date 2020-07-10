@@ -5,6 +5,8 @@ This repository contains the accompanying code for the paper:
 **"GMAT: Global Memory Augmentation for Transformers."** Ankit Gupta and Jonathan Berant. 
 [[PDF]](https://arxiv.org/pdf/2006.03274.pdf)
 
+We will be releasing the code only after a couple of months as we are working on some more applications of GMAT and are sorry for the delay.
+
 
 ### Citation
 ```
